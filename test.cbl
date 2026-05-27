@@ -5,6 +5,6 @@
        WORKING-STORAGE SECTION.
        PROCEDURE DIVISION.
        MAIN-PROCEDURE.
-            DISPLAY "Mizu no waki to o"
+            DISPLAY "Mizu no waki to olo"
             STOP RUN.
        END PROGRAM YOUR-PROGRAM-NAME.
